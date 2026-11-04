@@ -1,6 +1,6 @@
 # FIFA CON
 
-Sitio privado del equipo organizador, con estética basada en el flyer de la tercera edición (diciembre de 2026).
+Sitio privado del equipo organizador del congreso. 
 
 ## Edición sin código
 
